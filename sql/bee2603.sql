@@ -1,0 +1,1 @@
+select name, street FROM customers where city = 'Porto Alegre'
